@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F0F8FF;
+}
+
+header {
+    background-color:#2E4A62 ;
+}
+
+main {
+    color:#2E4A62
+}
+
+main .col h3 {
+    color: #6A9FB5;
+}
+
+main .col img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+ main .col {
+    border: solid 1px #2E4A62;
+ }
+
+main .photo-proyecto {
+    border-left: none;
+}
+
+footer {
+    background-color:#2E4A62;
+    color: #F0F8FF;
+}
+
+/*
+color scheme:
+#F0F8FF casi blanco
+#D1DCE5
+#A3C5D9
+#6A9FB5
+#2E4A62 azul oscuro nav
+*/
