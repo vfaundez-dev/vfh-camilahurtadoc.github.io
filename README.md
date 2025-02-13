@@ -3,9 +3,9 @@
 ## Index.html
 Index.html muestra el CV actualizado, implementando CSS y Bootstrap.
 
-En el nav bar de Index.html hay links para acceder a:
-    - Portafolio
-    - Forks (screenshots de forks y commits realizados)
+En el **nav bar** de Index.html hay links para acceder a:
+ - Portafolio
+ - Forks (screenshots de forks y commits realizados)
 
 ## Portafolio.html
 El archivo portafolio.html muestra la recolección de proyectos realizados en el curso.
