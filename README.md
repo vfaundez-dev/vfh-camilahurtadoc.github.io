@@ -13,7 +13,7 @@ El archivo portafolio.html muestra la recolección de proyectos realizados en el
 Se puede encontrar en /assets/html/portafolio.html
 
 ## Colegas.html
-EL archivo colegas.html muestra los screenshots de forks y commits realizados a trabajos de compañeros de curso.
+El archivo colegas.html muestra los screenshots de forks y commits realizados a trabajos de compañeros de curso.
 
 Se puede encontrar en /assets/html/colegas.html
 
